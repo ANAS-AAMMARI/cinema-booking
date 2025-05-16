@@ -15,11 +15,16 @@ An online movie ticket booking system built with **PHP** and **MySQL** that allo
 - Profile Settings
 
 ### 🛠️ Admin Features
-- Movie & Showtime Management
-- Booking Overview
-- User Management
-- Revenue Reports
+- Movie & Showtime Management  
+- Booking Overview  
+- User Management  
+- Revenue Reports  
 - Admin Dashboard (Powered by AdminLTE)
+
+**🔐 Admin Login**  
+Username: `admin`  
+Password: `password`
+
 
 ### 🎭 Theatre Features
 - Theatre Profile Management
